@@ -1,0 +1,249 @@
+[
+  {
+    "id": 85163096,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85163096",
+    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+  },
+  {
+    "id": 85897730,
+    "name": "Java (Spring) Developer",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85897730",
+    "description": "Хорошие знания Java 17. Знание Spring Boot и Spring Cloud. Уровень английского A2. Опыт работы в IT от 2..."
+  },
+  {
+    "id": 86264197,
+    "name": "Juniour Java Backend Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86264197",
+    "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
+  },
+  {
+    "id": 86180458,
+    "name": "Java developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86180458",
+    "description": "Навыки: - Понимание и написание правильного поддерживаемого кода. - Опыт работы с системой контроля версий (Git). - Умение самостоятельно искать информацию и коммуницировать..."
+  },
+  {
+    "id": 86242306,
+    "name": "EPAM Java Internship",
+    "salary": {
+      "from": 80000,
+      "to": 120000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86242306",
+    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+  },
+  {
+    "id": 86199181,
+    "name": "Java Intern",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86199181",
+    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
+  },
+  {
+    "id": 86183422,
+    "name": "Программист Java",
+    "salary": {
+      "from": 600,
+      "to": 1400,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86183422",
+    "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
+  },
+  {
+    "id": 86320601,
+    "name": "Стажер-разработчик Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320601",
+    "description": "Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами."
+  },
+  {
+    "id": 84980967,
+    "name": "Ведущий разработчик JAVA (удалённо)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84980967",
+    "description": "Опыт от 2х лет разработки высоко-нагруженных и отказоустойчивых фронтальных систем. - Знание основных методологий разработки программного обеспечения, включая..."
+  },
+  {
+    "id": 86199182,
+    "name": "Java Intern",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86199182",
+    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
+  },
+  {
+    "id": 85163096,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85163096",
+    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+  },
+  {
+    "id": 85897730,
+    "name": "Java (Spring) Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85897730",
+    "description": "Хорошие знания Java 17. Знание Spring Boot и Spring Cloud. Уровень английского A2. Опыт работы в IT от 2..."
+  },
+  {
+    "id": 86264197,
+    "name": "Juniour Java Backend Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86264197",
+    "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
+  },
+  {
+    "id": 86180458,
+    "name": "Java developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86180458",
+    "description": "Навыки: - Понимание и написание правильного поддерживаемого кода. - Опыт работы с системой контроля версий (Git). - Умение самостоятельно искать информацию и коммуницировать..."
+  },
+  {
+    "id": 86242306,
+    "name": "EPAM Java Internship",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86242306",
+    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+  },
+  {
+    "id": 86199181,
+    "name": "Java Intern",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86199181",
+    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
+  },
+  {
+    "id": 86183422,
+    "name": "Программист Java",
+    "salary": {
+      "from": 600,
+      "to": 1400,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86183422",
+    "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
+  },
+  {
+    "id": 86320601,
+    "name": "Стажер-разработчик Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320601",
+    "description": "Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами."
+  },
+  {
+    "id": 84980967,
+    "name": "Ведущий разработчик JAVA (удалённо)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84980967",
+    "description": "Опыт от 2х лет разработки высоко-нагруженных и отказоустойчивых фронтальных систем. - Знание основных методологий разработки программного обеспечения, включая..."
+  },
+  {
+    "id": 86199182,
+    "name": "Java Intern",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86199182",
+    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
+  },
+  {
+    "id": 11111111,
+    "name": "Python джуниор",
+    "salary": "Не указана",
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для джуниора. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111112,
+    "name": "Python middle",
+    "salary": {
+      "from": "150000",
+      "to": "200000",
+      "currency": "РУБ"
+    },
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для middle. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111113,
+    "name": "Python senior",
+    "salary": {
+      "from": "200000",
+      "to": "250000",
+      "currency": "РУБ"
+    },
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для Senior. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111111,
+    "name": "Python джуниор",
+    "salary": "Не указана",
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для джуниора. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111112,
+    "name": "Python middle",
+    "salary": {
+      "from": "150000",
+      "to": "200000",
+      "currency": "РУБ"
+    },
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для middle. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111113,
+    "name": "Python senior",
+    "salary": {
+      "from": "200000",
+      "to": "250000",
+      "currency": "РУБ"
+    },
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для Senior. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111111,
+    "name": "Python джуниор",
+    "salary": "Не указана",
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для джуниора. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111112,
+    "name": "Python middle",
+    "salary": {
+      "from": "150000",
+      "to": "200000",
+      "currency": "РУБ"
+    },
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для middle. Требования: Python, SQL, Django 4"
+  },
+  {
+    "id": 11111113,
+    "name": "Python senior",
+    "salary": {
+      "from": "200000",
+      "to": "250000",
+      "currency": "РУБ"
+    },
+    "vacancy_url": "https://python.ru",
+    "description": "Вакансия для Senior. Требования: Python, SQL, Django 4"
+  }
+]
