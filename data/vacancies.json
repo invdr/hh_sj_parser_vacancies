@@ -1,68 +1,872 @@
 [
   {
-    "id": 85163096,
-    "name": "Разработчик Java (Junior)",
+    "id": 86400360,
+    "name": "Стажер-программист Python",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/85163096",
-    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
   },
   {
-    "id": 85897730,
-    "name": "Java (Spring) Developer",
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
     "salary": {
       "from": 100000,
       "to": 150000,
       "currency": "RUB"
     },
-    "vacancy_url": "https://hh.ru/vacancy/85897730",
-    "description": "Хорошие знания Java 17. Знание Spring Boot и Spring Cloud. Уровень английского A2. Опыт работы в IT от 2..."
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
   },
   {
-    "id": 86264197,
-    "name": "Juniour Java Backend Developer",
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/86264197",
-    "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
   },
   {
-    "id": 86180458,
-    "name": "Java developer",
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/86180458",
-    "description": "Навыки: - Понимание и написание правильного поддерживаемого кода. - Опыт работы с системой контроля версий (Git). - Умение самостоятельно искать информацию и коммуницировать..."
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
   },
   {
-    "id": 86242306,
-    "name": "EPAM Java Internship",
+    "id": 86560040,
+    "name": "Python developer",
     "salary": {
       "from": 80000,
-      "to": 120000,
+      "to": 180000,
       "currency": "RUB"
     },
-    "vacancy_url": "https://hh.ru/vacancy/86242306",
-    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
   },
   {
-    "id": 86199181,
-    "name": "Java Intern",
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
+  },
+  {
+    "id": 86499209,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499209",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86400360,
+    "name": "Стажер-программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
+  },
+  {
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
     "salary": {
       "from": 100000,
       "to": 150000,
       "currency": "RUB"
     },
-    "vacancy_url": "https://hh.ru/vacancy/86199181",
-    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
   },
   {
-    "id": 86183422,
-    "name": "Программист Java",
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
     "salary": {
-      "from": 600,
-      "to": 1400,
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
+  },
+  {
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
+  },
+  {
+    "id": 86560040,
+    "name": "Python developer",
+    "salary": {
+      "from": 80000,
+      "to": 180000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
+  },
+  {
+    "id": 86499209,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499209",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86400360,
+    "name": "Стажер-программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
+  },
+  {
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
       "currency": "BYR"
     },
-    "vacancy_url": "https://hh.ru/vacancy/86183422",
-    "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
+  },
+  {
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
+  },
+  {
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
+  },
+  {
+    "id": 86560040,
+    "name": "Python developer",
+    "salary": {
+      "from": 80000,
+      "to": 180000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
+  },
+  {
+    "id": 86499209,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499209",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86446575,
+    "name": "Junior Java Developer",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "KZT"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86446575",
+    "description": "Высшее техническое образование. Опыт работы не менее 1 года в разработке. Знание Java SE 8+. Хорошее знание и опыт..."
   },
   {
     "id": 86320601,
@@ -72,32 +876,11 @@
     "description": "Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами."
   },
   {
-    "id": 84980967,
-    "name": "Ведущий разработчик JAVA (удалённо)",
+    "id": 86435502,
+    "name": "Junior Java Developer",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/84980967",
-    "description": "Опыт от 2х лет разработки высоко-нагруженных и отказоустойчивых фронтальных систем. - Знание основных методологий разработки программного обеспечения, включая..."
-  },
-  {
-    "id": 86199182,
-    "name": "Java Intern",
-    "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/86199182",
-    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
-  },
-  {
-    "id": 85163096,
-    "name": "Разработчик Java (Junior)",
-    "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/85163096",
-    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
-  },
-  {
-    "id": 85897730,
-    "name": "Java (Spring) Developer",
-    "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/85897730",
-    "description": "Хорошие знания Java 17. Знание Spring Boot и Spring Cloud. Уровень английского A2. Опыт работы в IT от 2..."
+    "vacancy_url": "https://hh.ru/vacancy/86435502",
+    "description": "Опыт прохождения стажировок/школ/курсов в ИТ- компаниях или онлайн по направлению Java. Опыт работы с Java. Опыт работы с..."
   },
   {
     "id": 86264197,
@@ -107,25 +890,65 @@
     "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
   },
   {
-    "id": 86180458,
-    "name": "Java developer",
+    "id": 86548777,
+    "name": "Junior Java Developer",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/86180458",
-    "description": "Навыки: - Понимание и написание правильного поддерживаемого кода. - Опыт работы с системой контроля версий (Git). - Умение самостоятельно искать информацию и коммуницировать..."
+    "vacancy_url": "https://hh.ru/vacancy/86548777",
+    "description": "Знание Java Core (11, 17): class, interface, abstractions, Collections, Generics, Stream API + Lambda expressions, Exceptions, Multitheading. Знание классических алгоритмов..."
   },
   {
-    "id": 86242306,
-    "name": "EPAM Java Internship",
-    "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/86242306",
-    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+    "id": 86539902,
+    "name": "JAVA-разработчик (стажер)",
+    "salary": {
+      "from": 0,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86539902",
+    "description": "Самый заботливый HR-отдел."
   },
   {
-    "id": 86199181,
-    "name": "Java Intern",
+    "id": 86595189,
+    "name": "Специалист сопровождения Java приложений",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/86199181",
-    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
+    "vacancy_url": "https://hh.ru/vacancy/86595189",
+    "description": "Знание принципов ООП. Умение читать и разбирать чужой код. Знание Java SE (не ниже версии 7, в том числе JDBC). "
+  },
+  {
+    "id": 86516415,
+    "name": "Junior java разработчик (Platform V Paus)",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86516415",
+    "description": "Коммерческий опыт разработки на Java 8+ от 1 года. Опыт работы с Spring Framework - Spring Core, JDBC, Web, Transactions. "
+  },
+  {
+    "id": 86416965,
+    "name": "Java-разработчик (Стажер)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416965",
+    "description": "Уверенное понимание устройства коллекций, лямбда выражений. Практический опыт использования Stream API, Generics, Reflection API. Понимание принципов SOLID, DRY, KISS. "
+  },
+  {
+    "id": 86416517,
+    "name": "Junior Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416517",
+    "description": "Опыт работы от 6 месяцев в коммерческих проектах. Законченное высшее образование. Понимание ООП. Знание Java 8. Знание Spring (Spring Boot..."
+  },
+  {
+    "id": 86445766,
+    "name": "Java программист",
+    "salary": {
+      "from": 40000,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86445766",
+    "description": "Знание языков Java, SQL. Умение понимать ER-диаграммы. Знание основных структур и алгоритмов. Знание языков Java, SQL. Умение понимать ER..."
   },
   {
     "id": 86183422,
@@ -139,6 +962,167 @@
     "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
   },
   {
+    "id": 86412119,
+    "name": "Backend - разработчик (golang, java)",
+    "salary": {
+      "from": 60000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86412119",
+    "description": "Умение разобраться в чужом коде. Опыт коммерческой разработки от 1 года (ВАЖНО! курсы, типа skillbox, intercode и др не учитываются..."
+  },
+  {
+    "id": 86536757,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86536757",
+    "description": "Опыт работы с микросервисной архитектурой. Уверенное использование Java Stream Api. Базовое знание алгоритмов. Умение определять алгоритмическую сложность написанного кода. "
+  },
+  {
+    "id": 86242306,
+    "name": "EPAM Java Internship",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86242306",
+    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+  },
+  {
+    "id": 85443501,
+    "name": "QA Automation Engineer Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85443501",
+    "description": "Обязателен коммерческий опыт работы тестировщиком от 6 месяцев на языке Java. Опыт работы с одним из фреймворков тестирования на Java..."
+  },
+  {
+    "id": 85858286,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85858286",
+    "description": "Опыт работы с Java 8-11 (Core, Concurrency, Collection, Lambda, Stream API), Git. Знание Spring Framework (MVC, Security, Boot, Data..."
+  },
+  {
+    "id": 86616699,
+    "name": "Стажер java разработчик",
+    "salary": {
+      "from": 0,
+      "to": 57000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86616699",
+    "description": "Уверенное знание следующих технологий: Java 8, JUnit или TestNG, Mockito, Maven, Git, Spring core, Sql. Текущее обучение в ВУЗе (бакалавриат..."
+  },
+  {
+    "id": 85163096,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85163096",
+    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+  },
+  {
+    "id": 86560305,
+    "name": "Trainee/Junior QA automation engineer (Java)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86560305",
+    "description": "Глубокие знания и хорошее понимание следующих теоретических аспектов: цикл разработки ПО, методологии и методы разработки ПО, жизненный цикл тестирования, виды..."
+  },
+  {
+    "id": 86593431,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86593431",
+    "description": "Наличие опыта программирования на Java от 2 лет. Высшее образование. Опыт работы с реляционными базами данных. Опыт написания плагинов для..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86531431,
+    "name": "Java Software Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86531431",
+    "description": "Опыт коммерческой разработки от 2 лет. Знание и понимание принципов ООП, SOLID, основных паттернов проектирования. Уверенные знания Java SE (8..."
+  },
+  {
+    "id": 86401118,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86401118",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 86458121,
+    "name": "Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86458121",
+    "description": "Хорошо знаешь Java 11 и то, как она устроена внутри. Знаком со всеми или большинством из вышеупомянутых технологий, либо готов..."
+  },
+  {
+    "id": 86506289,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86506289",
+    "description": "Опыт разработки Java. Опыт разработки клиент-серверных приложений. Понимание ООП, паттернов проектирования, понимание принципов SOLID. Умение писать поддерживаемый код. "
+  },
+  {
+    "id": 86455010,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86455010",
+    "description": "Высшее оконченное образование. Опыт работы от 1 года. Знания Java 8+, Spring Framework, Maven. Любовь к чистоте в коде. "
+  },
+  {
+    "id": 86517575,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86517575",
+    "description": "Опыт коммерческой разработки на JAVA от 2-х лет. Понимание принципов Agile. Опыт работы с Java 8-11. "
+  },
+  {
+    "id": 86399367,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86399367",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 85729722,
+    "name": "Trainee Java-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85729722",
+    "description": "Инструменты и технологии, применяемые на проекте: Знания Java. Понимание принципов ООП. Желание обучаться, ответственность, исполнительность. Высшее оконченное профильное образование либо..."
+  },
+  {
+    "id": 86446575,
+    "name": "Junior Java Developer",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "KZT"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86446575",
+    "description": "Высшее техническое образование. Опыт работы не менее 1 года в разработке. Знание Java SE 8+. Хорошее знание и опыт..."
+  },
+  {
     "id": 86320601,
     "name": "Стажер-разработчик Java",
     "salary": "Не указана",
@@ -146,104 +1130,2442 @@
     "description": "Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами."
   },
   {
-    "id": 84980967,
-    "name": "Ведущий разработчик JAVA (удалённо)",
+    "id": 86435502,
+    "name": "Junior Java Developer",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/84980967",
-    "description": "Опыт от 2х лет разработки высоко-нагруженных и отказоустойчивых фронтальных систем. - Знание основных методологий разработки программного обеспечения, включая..."
+    "vacancy_url": "https://hh.ru/vacancy/86435502",
+    "description": "Опыт прохождения стажировок/школ/курсов в ИТ- компаниях или онлайн по направлению Java. Опыт работы с Java. Опыт работы с..."
   },
   {
-    "id": 86199182,
-    "name": "Java Intern",
+    "id": 86264197,
+    "name": "Juniour Java Backend Developer",
     "salary": "Не указана",
-    "vacancy_url": "https://hh.ru/vacancy/86199182",
-    "description": "Стать T-образным (T-shaped) специалистом, готовым решать сложные инженерные задачи. Уровень английского языка от B1 (Intermediate) и выше. "
+    "vacancy_url": "https://hh.ru/vacancy/86264197",
+    "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
   },
   {
-    "id": 11111111,
-    "name": "Python джуниор",
+    "id": 86548777,
+    "name": "Junior Java Developer",
     "salary": "Не указана",
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для джуниора. Требования: Python, SQL, Django 4"
+    "vacancy_url": "https://hh.ru/vacancy/86548777",
+    "description": "Знание Java Core (11, 17): class, interface, abstractions, Collections, Generics, Stream API + Lambda expressions, Exceptions, Multitheading. Знание классических алгоритмов..."
   },
   {
-    "id": 11111112,
-    "name": "Python middle",
+    "id": 86539902,
+    "name": "JAVA-разработчик (стажер)",
     "salary": {
-      "from": "150000",
-      "to": "200000",
-      "currency": "РУБ"
+      "from": 0,
+      "to": 50000,
+      "currency": "RUB"
     },
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для middle. Требования: Python, SQL, Django 4"
+    "vacancy_url": "https://hh.ru/vacancy/86539902",
+    "description": "Самый заботливый HR-отдел."
   },
   {
-    "id": 11111113,
-    "name": "Python senior",
-    "salary": {
-      "from": "200000",
-      "to": "250000",
-      "currency": "РУБ"
-    },
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для Senior. Требования: Python, SQL, Django 4"
-  },
-  {
-    "id": 11111111,
-    "name": "Python джуниор",
+    "id": 86595189,
+    "name": "Специалист сопровождения Java приложений",
     "salary": "Не указана",
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для джуниора. Требования: Python, SQL, Django 4"
+    "vacancy_url": "https://hh.ru/vacancy/86595189",
+    "description": "Знание принципов ООП. Умение читать и разбирать чужой код. Знание Java SE (не ниже версии 7, в том числе JDBC). "
   },
   {
-    "id": 11111112,
-    "name": "Python middle",
+    "id": 86516415,
+    "name": "Junior java разработчик (Platform V Paus)",
     "salary": {
-      "from": "150000",
-      "to": "200000",
-      "currency": "РУБ"
+      "from": 0,
+      "to": 200000,
+      "currency": "RUB"
     },
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для middle. Требования: Python, SQL, Django 4"
+    "vacancy_url": "https://hh.ru/vacancy/86516415",
+    "description": "Коммерческий опыт разработки на Java 8+ от 1 года. Опыт работы с Spring Framework - Spring Core, JDBC, Web, Transactions. "
   },
   {
-    "id": 11111113,
-    "name": "Python senior",
-    "salary": {
-      "from": "200000",
-      "to": "250000",
-      "currency": "РУБ"
-    },
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для Senior. Требования: Python, SQL, Django 4"
-  },
-  {
-    "id": 11111111,
-    "name": "Python джуниор",
+    "id": 86416965,
+    "name": "Java-разработчик (Стажер)",
     "salary": "Не указана",
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для джуниора. Требования: Python, SQL, Django 4"
+    "vacancy_url": "https://hh.ru/vacancy/86416965",
+    "description": "Уверенное понимание устройства коллекций, лямбда выражений. Практический опыт использования Stream API, Generics, Reflection API. Понимание принципов SOLID, DRY, KISS. "
   },
   {
-    "id": 11111112,
-    "name": "Python middle",
-    "salary": {
-      "from": "150000",
-      "to": "200000",
-      "currency": "РУБ"
-    },
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для middle. Требования: Python, SQL, Django 4"
+    "id": 86416517,
+    "name": "Junior Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416517",
+    "description": "Опыт работы от 6 месяцев в коммерческих проектах. Законченное высшее образование. Понимание ООП. Знание Java 8. Знание Spring (Spring Boot..."
   },
   {
-    "id": 11111113,
-    "name": "Python senior",
+    "id": 86445766,
+    "name": "Java программист",
     "salary": {
-      "from": "200000",
-      "to": "250000",
-      "currency": "РУБ"
+      "from": 40000,
+      "to": 200000,
+      "currency": "RUB"
     },
-    "vacancy_url": "https://python.ru",
-    "description": "Вакансия для Senior. Требования: Python, SQL, Django 4"
+    "vacancy_url": "https://hh.ru/vacancy/86445766",
+    "description": "Знание языков Java, SQL. Умение понимать ER-диаграммы. Знание основных структур и алгоритмов. Знание языков Java, SQL. Умение понимать ER..."
+  },
+  {
+    "id": 86183422,
+    "name": "Программист Java",
+    "salary": {
+      "from": 600,
+      "to": 1400,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86183422",
+    "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
+  },
+  {
+    "id": 86412119,
+    "name": "Backend - разработчик (golang, java)",
+    "salary": {
+      "from": 60000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86412119",
+    "description": "Умение разобраться в чужом коде. Опыт коммерческой разработки от 1 года (ВАЖНО! курсы, типа skillbox, intercode и др не учитываются..."
+  },
+  {
+    "id": 86536757,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86536757",
+    "description": "Опыт работы с микросервисной архитектурой. Уверенное использование Java Stream Api. Базовое знание алгоритмов. Умение определять алгоритмическую сложность написанного кода. "
+  },
+  {
+    "id": 86242306,
+    "name": "EPAM Java Internship",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86242306",
+    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+  },
+  {
+    "id": 85443501,
+    "name": "QA Automation Engineer Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85443501",
+    "description": "Обязателен коммерческий опыт работы тестировщиком от 6 месяцев на языке Java. Опыт работы с одним из фреймворков тестирования на Java..."
+  },
+  {
+    "id": 85858286,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85858286",
+    "description": "Опыт работы с Java 8-11 (Core, Concurrency, Collection, Lambda, Stream API), Git. Знание Spring Framework (MVC, Security, Boot, Data..."
+  },
+  {
+    "id": 86616699,
+    "name": "Стажер java разработчик",
+    "salary": {
+      "from": 0,
+      "to": 57000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86616699",
+    "description": "Уверенное знание следующих технологий: Java 8, JUnit или TestNG, Mockito, Maven, Git, Spring core, Sql. Текущее обучение в ВУЗе (бакалавриат..."
+  },
+  {
+    "id": 85163096,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85163096",
+    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+  },
+  {
+    "id": 86560305,
+    "name": "Trainee/Junior QA automation engineer (Java)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86560305",
+    "description": "Глубокие знания и хорошее понимание следующих теоретических аспектов: цикл разработки ПО, методологии и методы разработки ПО, жизненный цикл тестирования, виды..."
+  },
+  {
+    "id": 86593431,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86593431",
+    "description": "Наличие опыта программирования на Java от 2 лет. Высшее образование. Опыт работы с реляционными базами данных. Опыт написания плагинов для..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86531431,
+    "name": "Java Software Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86531431",
+    "description": "Опыт коммерческой разработки от 2 лет. Знание и понимание принципов ООП, SOLID, основных паттернов проектирования. Уверенные знания Java SE (8..."
+  },
+  {
+    "id": 86401118,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86401118",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 86458121,
+    "name": "Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86458121",
+    "description": "Хорошо знаешь Java 11 и то, как она устроена внутри. Знаком со всеми или большинством из вышеупомянутых технологий, либо готов..."
+  },
+  {
+    "id": 86506289,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86506289",
+    "description": "Опыт разработки Java. Опыт разработки клиент-серверных приложений. Понимание ООП, паттернов проектирования, понимание принципов SOLID. Умение писать поддерживаемый код. "
+  },
+  {
+    "id": 86455010,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86455010",
+    "description": "Высшее оконченное образование. Опыт работы от 1 года. Знания Java 8+, Spring Framework, Maven. Любовь к чистоте в коде. "
+  },
+  {
+    "id": 86517575,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86517575",
+    "description": "Опыт коммерческой разработки на JAVA от 2-х лет. Понимание принципов Agile. Опыт работы с Java 8-11. "
+  },
+  {
+    "id": 86399367,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86399367",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 85729722,
+    "name": "Trainee Java-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85729722",
+    "description": "Инструменты и технологии, применяемые на проекте: Знания Java. Понимание принципов ООП. Желание обучаться, ответственность, исполнительность. Высшее оконченное профильное образование либо..."
+  },
+  {
+    "id": 86446575,
+    "name": "Junior Java Developer",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "KZT"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86446575",
+    "description": "Высшее техническое образование. Опыт работы не менее 1 года в разработке. Знание Java SE 8+. Хорошее знание и опыт..."
+  },
+  {
+    "id": 86320601,
+    "name": "Стажер-разработчик Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320601",
+    "description": "Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами."
+  },
+  {
+    "id": 86435502,
+    "name": "Junior Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86435502",
+    "description": "Опыт прохождения стажировок/школ/курсов в ИТ- компаниях или онлайн по направлению Java. Опыт работы с Java. Опыт работы с..."
+  },
+  {
+    "id": 86264197,
+    "name": "Juniour Java Backend Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86264197",
+    "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
+  },
+  {
+    "id": 86548777,
+    "name": "Junior Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86548777",
+    "description": "Знание Java Core (11, 17): class, interface, abstractions, Collections, Generics, Stream API + Lambda expressions, Exceptions, Multitheading. Знание классических алгоритмов..."
+  },
+  {
+    "id": 86539902,
+    "name": "JAVA-разработчик (стажер)",
+    "salary": {
+      "from": 0,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86539902",
+    "description": "Самый заботливый HR-отдел."
+  },
+  {
+    "id": 86595189,
+    "name": "Специалист сопровождения Java приложений",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86595189",
+    "description": "Знание принципов ООП. Умение читать и разбирать чужой код. Знание Java SE (не ниже версии 7, в том числе JDBC). "
+  },
+  {
+    "id": 86516415,
+    "name": "Junior java разработчик (Platform V Paus)",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86516415",
+    "description": "Коммерческий опыт разработки на Java 8+ от 1 года. Опыт работы с Spring Framework - Spring Core, JDBC, Web, Transactions. "
+  },
+  {
+    "id": 86416965,
+    "name": "Java-разработчик (Стажер)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416965",
+    "description": "Уверенное понимание устройства коллекций, лямбда выражений. Практический опыт использования Stream API, Generics, Reflection API. Понимание принципов SOLID, DRY, KISS. "
+  },
+  {
+    "id": 86416517,
+    "name": "Junior Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416517",
+    "description": "Опыт работы от 6 месяцев в коммерческих проектах. Законченное высшее образование. Понимание ООП. Знание Java 8. Знание Spring (Spring Boot..."
+  },
+  {
+    "id": 86445766,
+    "name": "Java программист",
+    "salary": {
+      "from": 40000,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86445766",
+    "description": "Знание языков Java, SQL. Умение понимать ER-диаграммы. Знание основных структур и алгоритмов. Знание языков Java, SQL. Умение понимать ER..."
+  },
+  {
+    "id": 86183422,
+    "name": "Программист Java",
+    "salary": {
+      "from": 600,
+      "to": 1400,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86183422",
+    "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
+  },
+  {
+    "id": 86412119,
+    "name": "Backend - разработчик (golang, java)",
+    "salary": {
+      "from": 60000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86412119",
+    "description": "Умение разобраться в чужом коде. Опыт коммерческой разработки от 1 года (ВАЖНО! курсы, типа skillbox, intercode и др не учитываются..."
+  },
+  {
+    "id": 86536757,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86536757",
+    "description": "Опыт работы с микросервисной архитектурой. Уверенное использование Java Stream Api. Базовое знание алгоритмов. Умение определять алгоритмическую сложность написанного кода. "
+  },
+  {
+    "id": 86242306,
+    "name": "EPAM Java Internship",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86242306",
+    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+  },
+  {
+    "id": 85443501,
+    "name": "QA Automation Engineer Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85443501",
+    "description": "Обязателен коммерческий опыт работы тестировщиком от 6 месяцев на языке Java. Опыт работы с одним из фреймворков тестирования на Java..."
+  },
+  {
+    "id": 85858286,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85858286",
+    "description": "Опыт работы с Java 8-11 (Core, Concurrency, Collection, Lambda, Stream API), Git. Знание Spring Framework (MVC, Security, Boot, Data..."
+  },
+  {
+    "id": 86616699,
+    "name": "Стажер java разработчик",
+    "salary": {
+      "from": 0,
+      "to": 57000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86616699",
+    "description": "Уверенное знание следующих технологий: Java 8, JUnit или TestNG, Mockito, Maven, Git, Spring core, Sql. Текущее обучение в ВУЗе (бакалавриат..."
+  },
+  {
+    "id": 85163096,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85163096",
+    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+  },
+  {
+    "id": 86560305,
+    "name": "Trainee/Junior QA automation engineer (Java)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86560305",
+    "description": "Глубокие знания и хорошее понимание следующих теоретических аспектов: цикл разработки ПО, методологии и методы разработки ПО, жизненный цикл тестирования, виды..."
+  },
+  {
+    "id": 86593431,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86593431",
+    "description": "Наличие опыта программирования на Java от 2 лет. Высшее образование. Опыт работы с реляционными базами данных. Опыт написания плагинов для..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86531431,
+    "name": "Java Software Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86531431",
+    "description": "Опыт коммерческой разработки от 2 лет. Знание и понимание принципов ООП, SOLID, основных паттернов проектирования. Уверенные знания Java SE (8..."
+  },
+  {
+    "id": 86401118,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86401118",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 86458121,
+    "name": "Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86458121",
+    "description": "Хорошо знаешь Java 11 и то, как она устроена внутри. Знаком со всеми или большинством из вышеупомянутых технологий, либо готов..."
+  },
+  {
+    "id": 86506289,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86506289",
+    "description": "Опыт разработки Java. Опыт разработки клиент-серверных приложений. Понимание ООП, паттернов проектирования, понимание принципов SOLID. Умение писать поддерживаемый код. "
+  },
+  {
+    "id": 86455010,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86455010",
+    "description": "Высшее оконченное образование. Опыт работы от 1 года. Знания Java 8+, Spring Framework, Maven. Любовь к чистоте в коде. "
+  },
+  {
+    "id": 86517575,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86517575",
+    "description": "Опыт коммерческой разработки на JAVA от 2-х лет. Понимание принципов Agile. Опыт работы с Java 8-11. "
+  },
+  {
+    "id": 86399367,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86399367",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 85729722,
+    "name": "Trainee Java-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85729722",
+    "description": "Инструменты и технологии, применяемые на проекте: Знания Java. Понимание принципов ООП. Желание обучаться, ответственность, исполнительность. Высшее оконченное профильное образование либо..."
+  },
+  {
+    "id": 86446575,
+    "name": "Junior Java Developer",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "KZT"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86446575",
+    "description": "Высшее техническое образование. Опыт работы не менее 1 года в разработке. Знание Java SE 8+. Хорошее знание и опыт..."
+  },
+  {
+    "id": 86320601,
+    "name": "Стажер-разработчик Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320601",
+    "description": "Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами."
+  },
+  {
+    "id": 86435502,
+    "name": "Junior Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86435502",
+    "description": "Опыт прохождения стажировок/школ/курсов в ИТ- компаниях или онлайн по направлению Java. Опыт работы с Java. Опыт работы с..."
+  },
+  {
+    "id": 86264197,
+    "name": "Juniour Java Backend Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86264197",
+    "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
+  },
+  {
+    "id": 86548777,
+    "name": "Junior Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86548777",
+    "description": "Знание Java Core (11, 17): class, interface, abstractions, Collections, Generics, Stream API + Lambda expressions, Exceptions, Multitheading. Знание классических алгоритмов..."
+  },
+  {
+    "id": 86539902,
+    "name": "JAVA-разработчик (стажер)",
+    "salary": {
+      "from": 0,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86539902",
+    "description": "Самый заботливый HR-отдел."
+  },
+  {
+    "id": 86595189,
+    "name": "Специалист сопровождения Java приложений",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86595189",
+    "description": "Знание принципов ООП. Умение читать и разбирать чужой код. Знание Java SE (не ниже версии 7, в том числе JDBC). "
+  },
+  {
+    "id": 86516415,
+    "name": "Junior java разработчик (Platform V Paus)",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86516415",
+    "description": "Коммерческий опыт разработки на Java 8+ от 1 года. Опыт работы с Spring Framework - Spring Core, JDBC, Web, Transactions. "
+  },
+  {
+    "id": 86416965,
+    "name": "Java-разработчик (Стажер)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416965",
+    "description": "Уверенное понимание устройства коллекций, лямбда выражений. Практический опыт использования Stream API, Generics, Reflection API. Понимание принципов SOLID, DRY, KISS. "
+  },
+  {
+    "id": 86416517,
+    "name": "Junior Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416517",
+    "description": "Опыт работы от 6 месяцев в коммерческих проектах. Законченное высшее образование. Понимание ООП. Знание Java 8. Знание Spring (Spring Boot..."
+  },
+  {
+    "id": 86445766,
+    "name": "Java программист",
+    "salary": {
+      "from": 40000,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86445766",
+    "description": "Знание языков Java, SQL. Умение понимать ER-диаграммы. Знание основных структур и алгоритмов. Знание языков Java, SQL. Умение понимать ER..."
+  },
+  {
+    "id": 86183422,
+    "name": "Программист Java",
+    "salary": {
+      "from": 600,
+      "to": 1400,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86183422",
+    "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
+  },
+  {
+    "id": 86412119,
+    "name": "Backend - разработчик (golang, java)",
+    "salary": {
+      "from": 60000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86412119",
+    "description": "Умение разобраться в чужом коде. Опыт коммерческой разработки от 1 года (ВАЖНО! курсы, типа skillbox, intercode и др не учитываются..."
+  },
+  {
+    "id": 86536757,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86536757",
+    "description": "Опыт работы с микросервисной архитектурой. Уверенное использование Java Stream Api. Базовое знание алгоритмов. Умение определять алгоритмическую сложность написанного кода. "
+  },
+  {
+    "id": 86242306,
+    "name": "EPAM Java Internship",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86242306",
+    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+  },
+  {
+    "id": 85443501,
+    "name": "QA Automation Engineer Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85443501",
+    "description": "Обязателен коммерческий опыт работы тестировщиком от 6 месяцев на языке Java. Опыт работы с одним из фреймворков тестирования на Java..."
+  },
+  {
+    "id": 85858286,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85858286",
+    "description": "Опыт работы с Java 8-11 (Core, Concurrency, Collection, Lambda, Stream API), Git. Знание Spring Framework (MVC, Security, Boot, Data..."
+  },
+  {
+    "id": 86616699,
+    "name": "Стажер java разработчик",
+    "salary": {
+      "from": 0,
+      "to": 57000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86616699",
+    "description": "Уверенное знание следующих технологий: Java 8, JUnit или TestNG, Mockito, Maven, Git, Spring core, Sql. Текущее обучение в ВУЗе (бакалавриат..."
+  },
+  {
+    "id": 85163096,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85163096",
+    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+  },
+  {
+    "id": 86560305,
+    "name": "Trainee/Junior QA automation engineer (Java)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86560305",
+    "description": "Глубокие знания и хорошее понимание следующих теоретических аспектов: цикл разработки ПО, методологии и методы разработки ПО, жизненный цикл тестирования, виды..."
+  },
+  {
+    "id": 86593431,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86593431",
+    "description": "Наличие опыта программирования на Java от 2 лет. Высшее образование. Опыт работы с реляционными базами данных. Опыт написания плагинов для..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86531431,
+    "name": "Java Software Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86531431",
+    "description": "Опыт коммерческой разработки от 2 лет. Знание и понимание принципов ООП, SOLID, основных паттернов проектирования. Уверенные знания Java SE (8..."
+  },
+  {
+    "id": 86401118,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86401118",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 86458121,
+    "name": "Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86458121",
+    "description": "Хорошо знаешь Java 11 и то, как она устроена внутри. Знаком со всеми или большинством из вышеупомянутых технологий, либо готов..."
+  },
+  {
+    "id": 86506289,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86506289",
+    "description": "Опыт разработки Java. Опыт разработки клиент-серверных приложений. Понимание ООП, паттернов проектирования, понимание принципов SOLID. Умение писать поддерживаемый код. "
+  },
+  {
+    "id": 86455010,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86455010",
+    "description": "Высшее оконченное образование. Опыт работы от 1 года. Знания Java 8+, Spring Framework, Maven. Любовь к чистоте в коде. "
+  },
+  {
+    "id": 86517575,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86517575",
+    "description": "Опыт коммерческой разработки на JAVA от 2-х лет. Понимание принципов Agile. Опыт работы с Java 8-11. "
+  },
+  {
+    "id": 86399367,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86399367",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 85729722,
+    "name": "Trainee Java-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85729722",
+    "description": "Инструменты и технологии, применяемые на проекте: Знания Java. Понимание принципов ООП. Желание обучаться, ответственность, исполнительность. Высшее оконченное профильное образование либо..."
+  },
+  {
+    "id": 86446575,
+    "name": "Junior Java Developer",
+    "salary": {
+      "from": 100000,
+      "to": 0,
+      "currency": "KZT"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86446575",
+    "description": "Высшее техническое образование. Опыт работы не менее 1 года в разработке. Знание Java SE 8+. Хорошее знание и опыт..."
+  },
+  {
+    "id": 86320601,
+    "name": "Стажер-разработчик Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320601",
+    "description": "Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами."
+  },
+  {
+    "id": 86435502,
+    "name": "Junior Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86435502",
+    "description": "Опыт прохождения стажировок/школ/курсов в ИТ- компаниях или онлайн по направлению Java. Опыт работы с Java. Опыт работы с..."
+  },
+  {
+    "id": 86264197,
+    "name": "Juniour Java Backend Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86264197",
+    "description": "Java 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных..."
+  },
+  {
+    "id": 86548777,
+    "name": "Junior Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86548777",
+    "description": "Знание Java Core (11, 17): class, interface, abstractions, Collections, Generics, Stream API + Lambda expressions, Exceptions, Multitheading. Знание классических алгоритмов..."
+  },
+  {
+    "id": 86539902,
+    "name": "JAVA-разработчик (стажер)",
+    "salary": {
+      "from": 0,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86539902",
+    "description": "Самый заботливый HR-отдел."
+  },
+  {
+    "id": 86595189,
+    "name": "Специалист сопровождения Java приложений",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86595189",
+    "description": "Знание принципов ООП. Умение читать и разбирать чужой код. Знание Java SE (не ниже версии 7, в том числе JDBC). "
+  },
+  {
+    "id": 86516415,
+    "name": "Junior java разработчик (Platform V Paus)",
+    "salary": {
+      "from": 0,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86516415",
+    "description": "Коммерческий опыт разработки на Java 8+ от 1 года. Опыт работы с Spring Framework - Spring Core, JDBC, Web, Transactions. "
+  },
+  {
+    "id": 86416965,
+    "name": "Java-разработчик (Стажер)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416965",
+    "description": "Уверенное понимание устройства коллекций, лямбда выражений. Практический опыт использования Stream API, Generics, Reflection API. Понимание принципов SOLID, DRY, KISS. "
+  },
+  {
+    "id": 86416517,
+    "name": "Junior Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86416517",
+    "description": "Опыт работы от 6 месяцев в коммерческих проектах. Законченное высшее образование. Понимание ООП. Знание Java 8. Знание Spring (Spring Boot..."
+  },
+  {
+    "id": 86445766,
+    "name": "Java программист",
+    "salary": {
+      "from": 40000,
+      "to": 200000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86445766",
+    "description": "Знание языков Java, SQL. Умение понимать ER-диаграммы. Знание основных структур и алгоритмов. Знание языков Java, SQL. Умение понимать ER..."
+  },
+  {
+    "id": 86183422,
+    "name": "Программист Java",
+    "salary": {
+      "from": 600,
+      "to": 1400,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86183422",
+    "description": "Необходимо желание развиваться в этой сфере и способности работать за компьютером. Если есть опыт, то зарплата выше будет, так как..."
+  },
+  {
+    "id": 86412119,
+    "name": "Backend - разработчик (golang, java)",
+    "salary": {
+      "from": 60000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86412119",
+    "description": "Умение разобраться в чужом коде. Опыт коммерческой разработки от 1 года (ВАЖНО! курсы, типа skillbox, intercode и др не учитываются..."
+  },
+  {
+    "id": 86536757,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86536757",
+    "description": "Опыт работы с микросервисной архитектурой. Уверенное использование Java Stream Api. Базовое знание алгоритмов. Умение определять алгоритмическую сложность написанного кода. "
+  },
+  {
+    "id": 86242306,
+    "name": "EPAM Java Internship",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86242306",
+    "description": "Explore modern architectural patterns, frameworks and cloud computing. English proficiency level from B1 (Intermediate) and higher. Solid knowledge of..."
+  },
+  {
+    "id": 85443501,
+    "name": "QA Automation Engineer Java",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85443501",
+    "description": "Обязателен коммерческий опыт работы тестировщиком от 6 месяцев на языке Java. Опыт работы с одним из фреймворков тестирования на Java..."
+  },
+  {
+    "id": 85858286,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85858286",
+    "description": "Опыт работы с Java 8-11 (Core, Concurrency, Collection, Lambda, Stream API), Git. Знание Spring Framework (MVC, Security, Boot, Data..."
+  },
+  {
+    "id": 86616699,
+    "name": "Стажер java разработчик",
+    "salary": {
+      "from": 0,
+      "to": 57000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86616699",
+    "description": "Уверенное знание следующих технологий: Java 8, JUnit или TestNG, Mockito, Maven, Git, Spring core, Sql. Текущее обучение в ВУЗе (бакалавриат..."
+  },
+  {
+    "id": 85163096,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/85163096",
+    "description": "Java 8. JDBC. Spring framework 4+. Spring Webflux. Redis. Rest / SOAP. JUnit. Gradle. SQL. Git. ELK (Elasticsearch, Logstash, Kibana). "
+  },
+  {
+    "id": 86560305,
+    "name": "Trainee/Junior QA automation engineer (Java)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86560305",
+    "description": "Глубокие знания и хорошее понимание следующих теоретических аспектов: цикл разработки ПО, методологии и методы разработки ПО, жизненный цикл тестирования, виды..."
+  },
+  {
+    "id": 86593431,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86593431",
+    "description": "Наличие опыта программирования на Java от 2 лет. Высшее образование. Опыт работы с реляционными базами данных. Опыт написания плагинов для..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86531431,
+    "name": "Java Software Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86531431",
+    "description": "Опыт коммерческой разработки от 2 лет. Знание и понимание принципов ООП, SOLID, основных паттернов проектирования. Уверенные знания Java SE (8..."
+  },
+  {
+    "id": 86401118,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86401118",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 86458121,
+    "name": "Java Developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86458121",
+    "description": "Хорошо знаешь Java 11 и то, как она устроена внутри. Знаком со всеми или большинством из вышеупомянутых технологий, либо готов..."
+  },
+  {
+    "id": 86506289,
+    "name": "Java-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86506289",
+    "description": "Опыт разработки Java. Опыт разработки клиент-серверных приложений. Понимание ООП, паттернов проектирования, понимание принципов SOLID. Умение писать поддерживаемый код. "
+  },
+  {
+    "id": 86455010,
+    "name": "Разработчик Java (Junior)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86455010",
+    "description": "Высшее оконченное образование. Опыт работы от 1 года. Знания Java 8+, Spring Framework, Maven. Любовь к чистоте в коде. "
+  },
+  {
+    "id": 86517575,
+    "name": "Java разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86517575",
+    "description": "Опыт коммерческой разработки на JAVA от 2-х лет. Понимание принципов Agile. Опыт работы с Java 8-11. "
+  },
+  {
+    "id": 86399367,
+    "name": "Программист Java (Junior)",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86399367",
+    "description": "Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания Java Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы..."
+  },
+  {
+    "id": 85729722,
+    "name": "Trainee Java-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85729722",
+    "description": "Инструменты и технологии, применяемые на проекте: Знания Java. Понимание принципов ООП. Желание обучаться, ответственность, исполнительность. Высшее оконченное профильное образование либо..."
+  },
+  {
+    "id": 86400360,
+    "name": "Стажер-программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
+  },
+  {
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86621133,
+    "name": "Junior python разработчик",
+    "salary": {
+      "from": 30000,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86621133",
+    "description": "Знание Python, Django, GIT. Знание Telegram API, Aiogram. Понимание API, наличие опыта работы с API различных сервисов/сайтов/систем. "
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
+  },
+  {
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
+  },
+  {
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
+  },
+  {
+    "id": 86560040,
+    "name": "Python developer",
+    "salary": {
+      "from": 80000,
+      "to": 180000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
+  },
+  {
+    "id": 86400360,
+    "name": "Стажер-программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
+  },
+  {
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86621133,
+    "name": "Junior python разработчик",
+    "salary": {
+      "from": 30000,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86621133",
+    "description": "Знание Python, Django, GIT. Знание Telegram API, Aiogram. Понимание API, наличие опыта работы с API различных сервисов/сайтов/систем. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
+  },
+  {
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
+  },
+  {
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
+  },
+  {
+    "id": 86560040,
+    "name": "Python developer",
+    "salary": {
+      "from": 80000,
+      "to": 180000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
+  },
+  {
+    "id": 86400360,
+    "name": "Стажер-программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
+  },
+  {
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86621133,
+    "name": "Junior python разработчик",
+    "salary": {
+      "from": 30000,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86621133",
+    "description": "Знание Python, Django, GIT. Знание Telegram API, Aiogram. Понимание API, наличие опыта работы с API различных сервисов/сайтов/систем. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
+  },
+  {
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
+  },
+  {
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
+  },
+  {
+    "id": 86560040,
+    "name": "Python developer",
+    "salary": {
+      "from": 80000,
+      "to": 180000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
+  },
+  {
+    "id": 86400360,
+    "name": "Стажер-программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
+  },
+  {
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86621133,
+    "name": "Junior python разработчик",
+    "salary": {
+      "from": 30000,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86621133",
+    "description": "Знание Python, Django, GIT. Знание Telegram API, Aiogram. Понимание API, наличие опыта работы с API различных сервисов/сайтов/систем. "
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
+  },
+  {
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
+  },
+  {
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
+  },
+  {
+    "id": 86560040,
+    "name": "Python developer",
+    "salary": {
+      "from": 80000,
+      "to": 180000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
+  },
+  {
+    "id": 85169342,
+    "name": "Преподаватель Unity UX/UI Roblox Pyton в Международную школу программирования \"Алгоритмика\"",
+    "salary": {
+      "from": 1500,
+      "to": 3000,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85169342",
+    "description": "Тактичность. Стрессоустойчивость. Вежливость, тактичность."
+  },
+  {
+    "id": 86400360,
+    "name": "Стажер-программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86400360",
+    "description": "Базовые знания Python (>3)."
+  },
+  {
+    "id": 86396944,
+    "name": "Junior разработчик Python/Django",
+    "salary": {
+      "from": 60000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86396944",
+    "description": "Умение писать на Python (>3). Знание django/drf. Умение работать с git или другой системой контроля версий. Умение написать Dockerfile..."
+  },
+  {
+    "id": 86563439,
+    "name": "Python-разработчик",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86563439",
+    "description": "Имеете базовые знания C# и Python, SQL, Django. Имеете опыт работы в Visual Studio Code. Знакомы с объектно-ориентированным программированием. "
+  },
+  {
+    "id": 86324076,
+    "name": "Разработчик Python (junior)",
+    "salary": {
+      "from": 0,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86324076",
+    "description": "Хорошее знание SQL (группировки, оконные функции, JOIN-ы, подзапросы и понимания оптимизаций) для аналитических запросов. Высшее законченное математическое/техническое образование. "
+  },
+  {
+    "id": 86598530,
+    "name": "Младший python-разработчик",
+    "salary": {
+      "from": 85000,
+      "to": 100000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86598530",
+    "description": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с..."
+  },
+  {
+    "id": 86551216,
+    "name": "Cтажер-разработчик Python/C# (Data Engineer)",
+    "salary": {
+      "from": 35000,
+      "to": 35000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86551216",
+    "description": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, Java и др.), предпочтительно .NET/C#. "
+  },
+  {
+    "id": 86372853,
+    "name": "Разработчик Python Junior",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86372853",
+    "description": "Уверенное знание python3. Базовые навыки администрирования linux. Опыт работы с одним или нескольким python web framework: Django, flask, FastAPI..."
+  },
+  {
+    "id": 86292426,
+    "name": "Senior Python Developer",
+    "salary": {
+      "from": 150000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86292426",
+    "description": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+  },
+  {
+    "id": 86320517,
+    "name": "Начинающий разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86320517",
+    "description": "Знали Python (ООП, умение работать с пакетами и модулями, управление зависимостями\"Poetry\"). Имели базовые знания Git, GitHub или GitLab. "
+  },
+  {
+    "id": 86316688,
+    "name": "Junior python developer/data engineer",
+    "salary": {
+      "from": 40000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86316688",
+    "description": "Уверенное знание Python, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность..."
+  },
+  {
+    "id": 86458967,
+    "name": "Стажер-программист Python",
+    "salary": {
+      "from": 60000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86458967",
+    "description": "Способность к обучению, в том числе к самообразованию. Способность быстро разобраться в неизвестном предмете (протоколе, языке программирования, и т.д.). "
+  },
+  {
+    "id": 85879467,
+    "name": "Разработчик python (возможно обучение)",
+    "salary": {
+      "from": 2500,
+      "to": 0,
+      "currency": "BYR"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85879467",
+    "description": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение..."
+  },
+  {
+    "id": 86309826,
+    "name": "Программист Python/Django",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86309826",
+    "description": "Уверенное знание Python/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. "
+  },
+  {
+    "id": 86410407,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 40000,
+      "to": 0,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86410407",
+    "description": "Знание Python 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки..."
+  },
+  {
+    "id": 86288456,
+    "name": "Python разработчик junior",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86288456",
+    "description": "Знали Python. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. "
+  },
+  {
+    "id": 86297660,
+    "name": "Junior Python Developer",
+    "salary": {
+      "from": 1300,
+      "to": 0,
+      "currency": "USD"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86297660",
+    "description": "Базовые: Python. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. "
+  },
+  {
+    "id": 86559386,
+    "name": "Backend-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86559386",
+    "description": "Опыт разработки web приложений и сервисов на Python (Django, FastAPI) и/или желание развиваться в этом направлении. Понимание базовых принципов..."
+  },
+  {
+    "id": 86495459,
+    "name": "Разработчик Python (Django, DRF)",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86495459",
+    "description": "Опыт веб-разработки от одного года, программирования не менее четырех лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. "
+  },
+  {
+    "id": 86621133,
+    "name": "Junior python разработчик",
+    "salary": {
+      "from": 30000,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86621133",
+    "description": "Знание Python, Django, GIT. Знание Telegram API, Aiogram. Понимание API, наличие опыта работы с API различных сервисов/сайтов/систем. "
+  },
+  {
+    "id": 85252162,
+    "name": "Pyth‎on-разработчик",
+    "salary": {
+      "from": 0,
+      "to": 40000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/85252162",
+    "description": "Отличные знания Python и SQL. Умение писать поддерживаемый и тестируемый код. Умение декомпозировать задачи, оценивать их и выдерживать сроки. "
+  },
+  {
+    "id": 84826929,
+    "name": "Стажер-разработчик Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/84826929",
+    "description": "Какие навыки понадобятся: Высшее техническое образование. Рассматриваются также студенты последних курсов, у которых есть возможность работать полный день (по договоренности..."
+  },
+  {
+    "id": 86277729,
+    "name": "Python разработчик",
+    "salary": {
+      "from": 50000,
+      "to": 80000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86277729",
+    "description": "Уверенное знание Python 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker."
+  },
+  {
+    "id": 86440903,
+    "name": "Junior Python Developer / Data Engineer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86440903",
+    "description": "Работа с SQL/NoSQL базами данных: Mongo, Postgresql, MySQL и т.д. Умение писать большие сложные SQL запросы и проектировать..."
+  },
+  {
+    "id": 86560040,
+    "name": "Python developer",
+    "salary": {
+      "from": 80000,
+      "to": 180000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86560040",
+    "description": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. "
+  },
+  {
+    "id": 86499208,
+    "name": "Стажер Back-end разработчика: php, java, python, c#",
+    "salary": {
+      "from": 15000,
+      "to": 30000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499208",
+    "description": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+  },
+  {
+    "id": 86527377,
+    "name": "Python разработчик junior в отдел QA",
+    "salary": {
+      "from": 30000,
+      "to": 60000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86527377",
+    "description": "Знали Python. Знали Jenkins. Умели писать shell скрипты. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. "
+  },
+  {
+    "id": 86406271,
+    "name": "Python developer",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86406271",
+    "description": "Опыт работы с Linux на уровне администратора. Знание и опыт разработки на Python. Знание Git. Rest api, веб сервисы. "
+  },
+  {
+    "id": 86606778,
+    "name": "Программист Python",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86606778",
+    "description": "Уверенное знание языка и библиотек Python 2.7/3+. Знание фреймворка Django или Flask/Pyramid/Tornado. Базовые знания HTML..."
+  },
+  {
+    "id": 86499280,
+    "name": "Программист Python",
+    "salary": {
+      "from": 30000,
+      "to": 50000,
+      "currency": "RUB"
+    },
+    "vacancy_url": "https://hh.ru/vacancy/86499280",
+    "description": "Уверенное владение Python (среднее или выше). Опыт работы с async и aiohttp для создания телеграм ботов. Опыт постройки высоконагруженных сервисов. "
+  },
+  {
+    "id": 86210494,
+    "name": "Python developer (Junior/Middle)",
+    "salary": "Не указана",
+    "vacancy_url": "https://hh.ru/vacancy/86210494",
+    "description": "Опыт работы с Python 3 - от 2х лет. Знание ООП, архитектурные паттерны. Опыт работы с Flask, Django. "
   }
 ]

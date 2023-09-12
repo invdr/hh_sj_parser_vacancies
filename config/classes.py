@@ -48,6 +48,8 @@ class JSONSaver(Saver, MixinVacanciesStorage):
 
             with open(self.json_file, 'w', encoding='utf-8') as outfile:
                 json.dump(vacancies_list, outfile, ensure_ascii=False, indent=2)
+        print("-----------------\n"
+              "Найденные вакансии сохранены")
 
 
 class Vacancy(MixinVacanciesStorage):
@@ -72,12 +74,12 @@ class Vacancy(MixinVacanciesStorage):
             raise ValueError("Длина ID вакансии должно быть равным 8 (восьми)")
         if not len(profession) >= 10:
             raise TypeError("Наименование вакансии должно состоять из минимум 10 символов.")
-        if isinstance(salary, dict):
-            if not salary["from"] or not salary["to"] or not salary["currency"]:
-                raise KeyError("Не указано значение зарплаты ОТ, ДО или ВАЛЮТА")
-        elif isinstance(salary, int):
+        # if isinstance(salary, dict):
+        #     if not salary["from"] or not salary["to"] or not salary["currency"]:
+        #         raise KeyError("Не указано значение зарплаты ОТ, ДО или ВАЛЮТА")
+        if isinstance(salary, int):
             raise "Зарплата ОТ, ДО и Валюта должны быть разделены пробелами (всего два пробела)"
-        elif salary != "Не указана":
+        elif salary != "Не указана" and not isinstance(salary, dict):
             salary_split = salary.split()
             if len(salary_split) != 3:
                 raise "Зарплата ОТ, ДО и Валюта должны быть разделены пробелами (всего два пробела)"
@@ -88,10 +90,10 @@ class Vacancy(MixinVacanciesStorage):
 
         if not vacancy_url.startswith("https://"):
             raise "Ссылка должна начинаться с https://"
-        elif not vacancy_url.endswith(".ru"):
-            raise "Ссылка должна заканчиваться на .ru"
-        if not len(description) >= 20:
-            raise TypeError("Описание должно состоять минимум из 20 символов")
+        # elif not vacancy_url.endswith(".ru"):
+        #     raise "Ссылка должна заканчиваться на .ru"
+        if not len(description) >= 10:
+            raise TypeError("Описание должно состоять минимум из 10 символов")
 
         return True
 
@@ -128,7 +130,7 @@ class Vacancy(MixinVacanciesStorage):
                       f'\tдо: {self.salary["to"]}\n'
                       f'\tвалюта: {self.salary["currency"]}')
             return salary
-        return self.salary
+        return f"\t{self.salary}"
 
     def __str__(self):
         # принт вакансии
@@ -158,6 +160,7 @@ class HeadHunterAPI(APIVacancy, MixinVacanciesStorage):
     __slots__ = ()
 
     def get_vacancies(self, query: str) -> list:
+        print("Идет процесс сбора вакансий...")
 
         # проходим в цикле по страницам результата запроса (100 записей на 1 страницу)
         for page in range(0, 1):
@@ -187,7 +190,7 @@ class HeadHunterAPI(APIVacancy, MixinVacanciesStorage):
         params = {
             'text': f'NAME:{query}',
             'page': page,
-            'per_page': 10,
+            'per_page': 30,
         }
 
         req = requests.get('https://api.hh.ru/vacancies', params)
@@ -236,10 +239,11 @@ class SuperJobAPI(APIVacancy, MixinVacanciesStorage):
     secret_key = os.getenv('sj_key')
 
     def get_vacancies(self, query: str) -> list:
+        print("Идет процесс сбора вакансий...")
 
         # проходим в цикле по страницам результата запроса (100 записей на 1
         # страницу)
-        for page in range(0, 1):
+        for page in range(0, 5):
             new_data = json.loads(self.__get_page(query, page))
 
             for vacancy in new_data['objects']:
@@ -260,7 +264,7 @@ class SuperJobAPI(APIVacancy, MixinVacanciesStorage):
                    'X-Api-App-Id': SuperJobAPI.secret_key, }
         params = {'keyword': query,
                   'page': page,
-                  'count': 10}
+                  'count': 100}
 
         req = requests.get('https://api.superjob.ru/2.0/vacancies/',
                            headers=headers, params=params)
